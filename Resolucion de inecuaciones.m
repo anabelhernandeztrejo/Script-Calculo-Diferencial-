@@ -8,7 +8,7 @@
 %             :https//octaveintro.readthrdocs.io/en7latest/index.html
 
 %Inecuaciones primer grado con una incognita
-disp("inecuaciones de primer grado:");
+disp("inecuaciones de primer grado para todos");
 pkg load symbolic
 syms x
 solve(x+20<15)
